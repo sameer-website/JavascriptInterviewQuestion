@@ -21,6 +21,7 @@ public class DuplicateNumber {
 		for (Integer value : map.keySet()) {
 			System.out.println(value +" = "+ map.get(value));
 		}
+		lskdjflkasdjf
 
 	}
 
